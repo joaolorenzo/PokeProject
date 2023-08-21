@@ -10,19 +10,18 @@ const pokemon = defineProps(["name", "xp", "height", "img", "loading"]);
     v-if="pokemon.name" 
     :src="pokemon.img"
     class="card-img-top custom-padding" 
-    height="420"
+    style="height: 40vh;" 
     :alt="pokemon.name"
     >
     <img 
     v-else
     src="../assets/ovo.png" 
     class="card-img-top custom-padding" 
-    height="420" 
+    style="height: 40vh;" 
     alt=""
     >
-
     <div class="card-body">
-        <h3 class="card-title text-center text-uppercase pt-5 fs-1">{{ pokemon?.name|| '???' }}</h3>
+        <h3 class="card-title text-center text-uppercase pt-3 fs-1">{{ pokemon?.name|| '???' }}</h3>
         <hr>
         <br>
         <div class="row pt-1">

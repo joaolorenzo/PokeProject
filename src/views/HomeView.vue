@@ -84,9 +84,5 @@ const selecionarPokemon = async (pokemon) => {
 </template>
 
 <style scoped>
-.scroll-container {
-  max-height: 69.3vh;
-  overflow-y: scroll;
-  overflow-x: hidden;
-}
+
 </style>

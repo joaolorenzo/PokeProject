@@ -88,7 +88,13 @@
 }
 
 .custom-padding {
-    padding-top: 80px; 
+    padding-top: 5vh; 
+}
+
+.scroll-container {
+    height: 68vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 #campoBuscarPokemon {
