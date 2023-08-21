@@ -13,10 +13,13 @@ Vue.js
 Bootstrap
 PokeAPI
 📚 Instalação e Execução
-Clone o repositório: git clone https://github.com/joaolorenzo/PokeProject.git
-Navegue até o diretório: cd PokeProject
-Instale as dependências: npm install ou yarn install
-Execute o projeto: npm run dev ou yarn serve
+- Clone o repositório: git clone https://github.com/joaolorenzo/PokeProject.git
+
+- Navegue até o diretório: cd PokeProject
+
+- Instale as dependências: npm install ou yarn install
+
+- Execute o projeto: npm run dev ou yarn serve
 
 💌 Feedbacks e Contato
 Estou entusiasmado com o potencial do Vue.js e minha jornada está apenas começando! Adoraria ouvir seus feedbacks, sugestões e ideias. Se você quiser conversar sobre o projeto ou tecnologia em geral, não hesite em me contatar.
