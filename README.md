@@ -9,9 +9,11 @@ A estética do projeto é inspirada nas adoradas cartas de Pokémon. Utilizando 
 ![image](https://github.com/joaolorenzo/PokeProject/assets/108151188/ea439582-15c5-42f3-8eee-a8cc88de2a21)
 
 🚀 Tecnologias Utilizadas
-Vue.js
-Bootstrap
-PokeAPI
+- Vue.js
+- Bootstrap
+- PokeAPI
+
+  
 📚 Instalação e Execução
 - Clone o repositório: git clone https://github.com/joaolorenzo/PokeProject.git
 
