@@ -2,9 +2,10 @@ PokeProject: Uma Jornada com Vue.js 🚀
 Bem-vindo ao PokeProject, minha primeira imersão no mundo do Vue.js!
 
 🌟 Sobre
-O projeto foi concebido como uma ferramenta prática para consolidar meu entendimento dos principais conceitos de Vue.js. Durante o desenvolvimento, mergulhei nas nuances do framework, manipulando lifecycle hooks e familiarizando-me com os novos composables.
 
-A estética do projeto é inspirada nas adoradas cartas de Pokémon. Utilizando a PokeAPI, o PokeProject exibe uma seleção dinâmica dos Pokémon da primeira geração. Além disso, para uma UI amigável e visualmente atrativa, integrei o Bootstrap como principal ferramenta de estilização.
+O projeto foi concebido como uma ferramenta prática para consolidar meu entendimento dos principais conceitos de Vue.js. Durante o desenvolvimento, mergulhei nas particularidades do framework, manipulando lifecycle hooks e familiarizando-me com os novos composables.
+
+A estética do projeto é inspirada nas famigeradas cartas de Pokémon. Utilizando a PokeAPI, o PokeProject exibe uma seleção dinâmica dos Pokémon da primeira geração. Além disso, para uma UI amigável e visualmente atrativa, integrei o Bootstrap como principal ferramenta de estilização.
 
 ![image](https://github.com/joaolorenzo/PokeProject/assets/108151188/ea439582-15c5-42f3-8eee-a8cc88de2a21)
 
