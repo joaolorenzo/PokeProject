@@ -16,11 +16,8 @@ A estética do projeto é inspirada nas adoradas cartas de Pokémon. Utilizando 
   
 📚 Instalação e Execução
 - Clone o repositório: git clone https://github.com/joaolorenzo/PokeProject.git
-
 - Navegue até o diretório: cd PokeProject
-
 - Instale as dependências: npm install ou yarn install
-
 - Execute o projeto: npm run dev ou yarn serve
 
 💌 Feedbacks e Contato
