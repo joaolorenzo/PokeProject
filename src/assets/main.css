@@ -1,0 +1,117 @@
+.bg-navbar {
+    background-color: white!important;
+}
+
+.bg-footer {
+    background-color: rgba(235,226,0,1) !important;
+}
+
+.bg-body-tertiry {
+    background-color: rgba(235,226,0,1) !important;
+}
+
+.cardList {
+    background: linear-gradient(145deg, rgb(178, 114, 98) 0%, rgb(205, 68, 75) 27%, rgba(255,246,0,1) 100%);
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.cardList:hover {
+    background: linear-gradient(145deg, rgba(206,34,0,1) 0%, rgba(212,0,0,1) 27%, rgba(235,226,0,1) 100%);
+}
+
+.cardList:hover img {
+    transform: translateY(-6px); /* Move a imagem ligeiramente para cima */
+}
+
+.cardPokemonSelecionado {
+    height: 75vh;
+    background: linear-gradient(145deg, rgb(178, 114, 98) 0%, rgb(205, 68, 75) 27%, rgba(255,246,0,1) 100%);
+}
+
+.linkedin-btn {
+    background-color: #0077B5;
+    color: white;
+    border: none;
+}
+.linkedin-btn:hover {
+    background-color: #005E93; /* Um azul um pouco mais escuro para o efeito de hover */
+    text-decoration: none; /* Remove o sublinhado no hover */
+}
+
+.github-btn {
+    background-color: #333;
+    color: white;
+    border: none;
+    margin-right: 15px;
+}
+.github-btn:hover {
+    background-color: #555;
+    text-decoration: none;
+}
+
+.btn-email {
+    background-color: #0077B5;
+    color: white;
+    border: none;
+}
+.btn-email:hover {
+    background-color: #0077B5;
+    color: white;
+    border: none;
+}
+
+.center-screen {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-centered {
+    width: 90%;
+    max-width: 1100px; 
+}
+
+.card-listagem{
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.card-pokemon-selecionado{
+    border: 10px solid black !important ;
+    border-radius: 10px; 
+}
+.card-pokemon{
+    border: 6px solid black !important ;
+    border-radius: 10px; 
+}
+
+.custom-padding {
+    padding-top: 80px; 
+}
+
+#campoBuscarPokemon {
+    border: 1px solid black;
+}
+
+#campoBuscarPokemon:focus {
+    border-color: gray;
+    box-shadow: 0 0 0 0.2rem rgba(128, 128, 128, 0.25);  /* Altera a cor da "sombra" de foco para cinza */
+}
+
+body{
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+    background: #5EBBCF;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 56px;
+}
